@@ -1,0 +1,18 @@
+# Ignore metadata
+/.metadata/
+
+# Ignore class files
+*.class
+
+# Ignore builds
+bin/
+out/
+target/
+
+# Ignore IDE configs
+.idea/
+*.iml
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
