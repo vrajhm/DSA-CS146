@@ -17,3 +17,7 @@ target/
 # Ignore OS junk
 .DS_Store
 Thumbs.db
+
+# Ignore classpath and project
+.classpath
+.project
