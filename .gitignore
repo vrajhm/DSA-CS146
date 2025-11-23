@@ -1,5 +1,6 @@
 # Ignore metadata
 /.metadata/
+.settings/
 
 # Ignore class files
 *.class
